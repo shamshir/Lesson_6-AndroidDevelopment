@@ -17,7 +17,7 @@ import android.widget.ImageView;
 public class MainActivity extends AppCompatActivity {
 
     private ImageView imageView;
-    private int x = 0;
+    private int x = 1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
